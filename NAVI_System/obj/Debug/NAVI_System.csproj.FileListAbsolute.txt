@@ -1,0 +1,183 @@
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+C:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+D:\OneDrive\Работы\ИБМ ДВО РАН\programming\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+C:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+D:\OneDrive\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+D:\YandexDisk\Работы\ИПМТ\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\nunit.framework.dll
+F:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\nunit.framework.xml
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\nunit.framework.dll
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\bin\Debug\nunit.framework.xml
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe.config
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.exe
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.pdb
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\Settings.txt
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\NAVI_System.exe
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\NAVI_System.pdb
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\GeoAPI.dll
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\nunit.framework.dll
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\ProjNet.dll
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\GeoAPI.xml
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\nunit.framework.xml
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\bin\Debug\ProjNet.xml
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\MainWindow.g.cs
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\Set_window.g.cs
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\App.g.cs
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\MainWindow.baml
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\Set_window.baml
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.g.resources
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.CoreCompileInputs.cache

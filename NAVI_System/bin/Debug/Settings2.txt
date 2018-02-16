@@ -1,0 +1,12 @@
+1-Device:SonarDyne
+PortName:
+BaudRate:9600
+DataBits:8
+2-Device:SonarDyne
+PortName:
+BaudRate:9600
+DataBits:8
+3-Device:SonarDyne
+PortName:
+BaudRate:9600
+DataBits:8

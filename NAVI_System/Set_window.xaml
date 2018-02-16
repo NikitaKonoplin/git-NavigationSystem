@@ -1,0 +1,36 @@
+﻿<Window x:Class="NAVI_System.Set_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NAVI_System"
+        mc:Ignorable="d"
+        Title="Set_window" Height="400" Width="500" Closing="Window_Closing">
+    <Grid x:Name="Main_grind">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="191*"/>
+            <ColumnDefinition Width="302*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="button" Content="Добавить устройство" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" VerticalAlignment="Top" Width="133" Click="button_Click"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Stretch" Margin="5,112,5.333,9.667" VerticalAlignment="Stretch" Grid.ColumnSpan="2"/>
+        <Button x:Name="Delete" Content="Удалить устройство" HorizontalAlignment="Left" Height="26" Margin="10,44,0,0" VerticalAlignment="Top" Width="133" Click="Delete_Click"/>
+        <Button x:Name="Save" Content="Сохранить настройки" HorizontalAlignment="Left" Height="24" Margin="158.667,14,0,0" VerticalAlignment="Top" Width="133" Click="Save_Click" Grid.Column="1"/>
+        <Grid HorizontalAlignment="Stretch" Margin="5,82,5.333,0" VerticalAlignment="Top" Height="30" Grid.ColumnSpan="2" >
+            <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Stretch" Height="30" Margin="0,0,0,0" Stroke="Black" VerticalAlignment="Stretch" />
+            <Rectangle Fill="#FFB8B8BF" HorizontalAlignment="Left" Height="30" Margin="27,0,0,0" Stroke="Black" VerticalAlignment="Stretch" Width="100"/>
+            <Label x:Name="label1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="Device" HorizontalAlignment="Left" Height="30" Margin="27,0,0,0" VerticalAlignment="Stretch" Width="100" FontSize="14" FontWeight="Bold"/>
+            <Rectangle Fill="#FFB8B8BF" HorizontalAlignment="Left" Height="30" Margin="132,0,0,0" Stroke="Black" VerticalAlignment="Stretch" Width="100"/>
+            <Label x:Name="label2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="PortName" HorizontalAlignment="Left" Height="30" Margin="132,0,0,0" VerticalAlignment="Stretch" Width="100" FontSize="14" FontWeight="Bold"/>
+            <Rectangle Fill="#FFB8B8BF" HorizontalAlignment="Left" Height="30" Margin="237,0,0,0" Stroke="Black" VerticalAlignment="Stretch" Width="100"/>
+            <Label x:Name="label3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="BaudRate" HorizontalAlignment="Left" Height="30" Margin="237,0,0,0" VerticalAlignment="Stretch" Width="100" FontSize="14" FontWeight="Bold"/>
+            <Rectangle Fill="#FFB8B8BF" HorizontalAlignment="Left" Height="30" Margin="342,0,0,0" Stroke="Black" VerticalAlignment="Stretch" Width="50"/>
+            <Label x:Name="label4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="DBits" HorizontalAlignment="Left" Height="30" Margin="342,0,0,0" VerticalAlignment="Stretch" Width="50" FontSize="14" FontWeight="Bold"/>
+
+
+        </Grid>
+        <Button x:Name="Start" Content="Обновить список" HorizontalAlignment="Left" Height="24" Margin="158.667,43,0,0" VerticalAlignment="Top" Width="133" Click="Start_Click" Grid.Column="1" Focusable="False"/>
+        <Button x:Name="button1" Content="Button" Grid.Column="1" HorizontalAlignment="Left" Height="25" Margin="9.667,14,0,0" VerticalAlignment="Top" Width="57" Click="button1_Click"/>
+
+    </Grid>
+</Window>
