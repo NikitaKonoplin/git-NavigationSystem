@@ -181,3 +181,28 @@ C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_Sy
 C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
 C:\Users\konop\Рабочий стол\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
 D:\YandexDisk\Работы\ИБМ ДВО РАН\Temp\NAVI_System\NAVI_System\obj\Debug\NAVI_System.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\Settings.txt
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\NAVI_System.exe.config
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\NAVI_System.exe
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\NAVI_System.pdb
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\GeoAPI.dll
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\nunit.framework.dll
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\ProjNet.dll
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\GeoAPI.xml
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\nunit.framework.xml
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\bin\Debug\ProjNet.xml
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\Set_window.g.cs
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\App.g.cs
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System_Content.g.cs
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.cache
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System_MarkupCompile.lref
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\MainWindow.baml
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\Set_window.baml
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System.g.resources
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System.Properties.Resources.resources
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System.csproj.GenerateResource.Cache
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System.exe
+D:\YandexDisk\Работы\ИПМТ\TEST\Git-test\git-NavigationSystem\NAVI_System\obj\Debug\NAVI_System.pdb
