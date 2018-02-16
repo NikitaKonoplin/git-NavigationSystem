@@ -291,8 +291,6 @@ namespace NAVI_System
         }
         public override void date_process()
         {
-            //Console.WriteLine("date_process");
-            //string date;
             Action update = async () => // синхронно запускаем обновление интенрфейса исключительно async
             {
                 await Objects_Links.M_Window?.Dispatcher.InvokeAsync(() => {
